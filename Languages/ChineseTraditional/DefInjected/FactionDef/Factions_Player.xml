@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hawkia -->
+  <HK_PlayerFaction.label>霍基婭定居點</HK_PlayerFaction.label>
+  <!-- EN: They lost their place to live for some reason, and the three of them settled there without knowing each other. -->
+  <HK_PlayerFaction.description>三名互不相識的霍基婭在此定居，他們因為某種原因失去了原來的家園。</HK_PlayerFaction.description>
+  <!-- EN: leader -->
+  <HK_PlayerFaction.leaderTitle>領袖</HK_PlayerFaction.leaderTitle>
+  <!-- EN: Hawkia -->
+  <HK_PlayerFaction.pawnSingular>霍基婭</HK_PlayerFaction.pawnSingular>
+  <!-- EN: Hawkian -->
+  <HK_PlayerFaction.pawnsPlural>霍基婭</HK_PlayerFaction.pawnsPlural>
+</LanguageData>

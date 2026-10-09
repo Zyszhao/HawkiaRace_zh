@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 75mm Howitzer shell (Anti) -->
+  <Bullet_HKA75mmHowitzerShell_Antigrain.label>75mm HKA榴彈炮彈 (反粒子彈)</Bullet_HKA75mmHowitzerShell_Antigrain.label>
+  
+  <!-- EN: 75mm Howitzer shell (EMP) -->
+  <Bullet_HKA75mmHowitzerShell_EMP.label>75mm HKA榴彈炮彈 (EMP彈)</Bullet_HKA75mmHowitzerShell_EMP.label>
+  
+  <!-- EN: 75mm Howitzer shell (HE) -->
+  <Bullet_HKA75mmHowitzerShell_HE.label>75mm HKA榴彈炮彈 (高爆彈)</Bullet_HKA75mmHowitzerShell_HE.label>
+  
+  <!-- EN: 75mm Howitzer shell (Incendiary) -->
+  <Bullet_HKA75mmHowitzerShell_Incendiary.label>75mm HKA榴彈炮彈 (燃燒彈)</Bullet_HKA75mmHowitzerShell_Incendiary.label>
+  
+  <!-- EN: 75mm Howitzer shell (Smoke) -->
+  <Bullet_HKA75mmHowitzerShell_Smoke.label>75mm HKA榴彈炮彈 (煙霧彈)</Bullet_HKA75mmHowitzerShell_Smoke.label>
+  
+  <!-- EN: 75mm HKA Howitzer shell (Anti) -->
+  <Shell_HKA75mmHowitzer_AntigrainWarhead.label>75mm HKA榴彈炮彈 (反粒子彈)</Shell_HKA75mmHowitzer_AntigrainWarhead.label>
+  <!-- EN: Low-velocity shell designed to be fired from a Howitzer.
+\n\n反粒子彈:
+\n一種小型的超技術彈頭，通常由宇宙飛船或閃耀世界使機器用，在一反物質的推動下，產生巨量高能伽瑪射線，擁有巨大的湮滅性摧毀能力。
+\n\n使用者: -->
+  <Shell_HKA75mmHowitzer_AntigrainWarhead.description>榴彈炮使用的低初速炮彈。</Shell_HKA75mmHowitzer_AntigrainWarhead.description>
+  
+  <!-- EN: 75mm HKA Howitzer shell (EMP) -->
+  <Shell_HKA75mmHowitzer_EMP.label>75mm HKA榴彈炮彈 (EMP彈)</Shell_HKA75mmHowitzer_EMP.label>
+  <!-- EN: Low-velocity shell designed to be fired from a Howitzer.
+\n\nEMP彈:
+\n擊中目標時產生電磁脈衝，暫時中斷電子系統和機械裝置。
+\n\n使用者: -->
+  <Shell_HKA75mmHowitzer_EMP.description>榴彈炮使用的低初速炮彈。</Shell_HKA75mmHowitzer_EMP.description>
+  
+  <!-- EN: 75mm HKA Howitzer shell (HE) -->
+  <Shell_HKA75mmHowitzer_HighExplosive.label>75mm HKA榴彈炮彈 (高爆彈)</Shell_HKA75mmHowitzer_HighExplosive.label>
+  <!-- EN: Low-velocity shell designed to be fired from a Howitzer.
+\n\n高爆彈:
+\n鋼質外殼內填裝高爆炸藥與引信。炸藥被引信引爆後，炸裂的外殼變成許多高溫銳利的破片以高速四散。
+\n\n使用者: -->
+  <Shell_HKA75mmHowitzer_HighExplosive.description>榴彈炮使用的低初速炮彈。</Shell_HKA75mmHowitzer_HighExplosive.description>
+  
+  <!-- EN: 75mm HKA Howitzer shell (Incendiary) -->
+  <Shell_HKA75mmHowitzer_Incendiary.label>75mm HKA榴彈炮彈 (燃燒彈)</Shell_HKA75mmHowitzer_Incendiary.label>
+  <!-- EN: Low-velocity shell designed to be fired from a Howitzer.
+\n\n燃燒彈:
+\n裝有燃燒劑的彈藥，主要利用火焰和高溫燒傷目標。
+\n\n使用者: -->
+  <Shell_HKA75mmHowitzer_Incendiary.description>榴彈炮使用的低初速炮彈。</Shell_HKA75mmHowitzer_Incendiary.description>
+  
+  <!-- EN: 75mm HKA Howitzer shell (Smoke) -->
+  <Shell_HKA75mmHowitzer_Smoke.label>75mm HKA榴彈炮彈 (煙霧彈)</Shell_HKA75mmHowitzer_Smoke.label>
+  <!-- EN: Low-velocity shell designed to be fired from a Howitzer.
+\n\n煙霧彈:
+\n充滿了煙霧劑。在撞擊時爆炸，產生厚厚的煙幕。
+\n\n使用者: -->
+  <Shell_HKA75mmHowitzer_Smoke.description>榴彈炮使用的低初速炮彈。</Shell_HKA75mmHowitzer_Smoke.description>
+</LanguageData>

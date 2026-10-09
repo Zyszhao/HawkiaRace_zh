@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hawkia -->
+  <Hawkia.label>霍基婭</Hawkia.label>
+  <!-- EN: left lung -->
+  <Hawkia.corePart.parts.left_lung.customLabel>左肺</Hawkia.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Hawkia.corePart.parts.right_lung.customLabel>右肺</Hawkia.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Hawkia.corePart.parts.left_kidney.customLabel>左腎</Hawkia.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Hawkia.corePart.parts.right_kidney.customLabel>右腎</Hawkia.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Hawkia.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</Hawkia.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Hawkia.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</Hawkia.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Hawkia.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>左耳</Hawkia.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Hawkia.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>右耳</Hawkia.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Hawkia.corePart.parts.left_shoulder.customLabel>左肩</Hawkia.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>左鎖骨</Hawkia.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</Hawkia.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>左肱骨</Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>左橈骨</Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左小指</Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>左無名指</Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</Hawkia.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Hawkia.corePart.parts.right_shoulder.customLabel>右肩</Hawkia.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>右鎖骨</Hawkia.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_arm.customLabel>右臂</Hawkia.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>右肱骨</Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>右橈骨</Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右小指</Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>右無名指</Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</Hawkia.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Hawkia.corePart.parts.left_leg.customLabel>左腿</Hawkia.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Hawkia.corePart.parts.left_leg.parts.left_femur.customLabel>左股骨</Hawkia.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Hawkia.corePart.parts.left_leg.parts.left_tibia.customLabel>左脛骨</Hawkia.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Hawkia.corePart.parts.left_leg.parts.left_foot.customLabel>左足</Hawkia.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>左小趾</Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>左次小趾</Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>左三趾</Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>左二趾</Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>左大拇趾</Hawkia.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Hawkia.corePart.parts.right_leg.customLabel>右腿</Hawkia.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Hawkia.corePart.parts.right_leg.parts.right_femur.customLabel>右股骨</Hawkia.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Hawkia.corePart.parts.right_leg.parts.right_tibia.customLabel>右脛骨</Hawkia.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Hawkia.corePart.parts.right_leg.parts.right_foot.customLabel>右足</Hawkia.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>右小趾</Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>右次小趾</Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>右三趾</Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>右二趾</Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>右大拇趾</Hawkia.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+  <Hawkia.corePart.parts.right_lower_shoulder.customLabel>右下肩</Hawkia.corePart.parts.right_lower_shoulder.customLabel>
+  <Hawkia.corePart.parts.left_lower_shoulder.customLabel>左下肩</Hawkia.corePart.parts.left_lower_shoulder.customLabel>
+  <Hawkia.corePart.parts.Right_Abdominal_Cavity.customLabel>右腹腔</Hawkia.corePart.parts.Right_Abdominal_Cavity.customLabel>
+  <Hawkia.corePart.parts.Right_Chest_Cavity.customLabel>右胸腔</Hawkia.corePart.parts.Right_Chest_Cavity.customLabel>
+  <Hawkia.corePart.parts.Left_Chest_Cavity.customLabel>左胸腔</Hawkia.corePart.parts.Left_Chest_Cavity.customLabel>
+  <Hawkia.corePart.parts.left_abdominal_cavity.customLabel>左腹腔</Hawkia.corePart.parts.left_abdominal_cavity.customLabel>
+</LanguageData>

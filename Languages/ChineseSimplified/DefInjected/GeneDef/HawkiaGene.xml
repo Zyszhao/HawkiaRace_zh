@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hwakia Wing -->
+  <HawkiaWing0.label>霍基娅翅膀</HawkiaWing0.label>
+  <!-- EN: the Hawk's wing genes.\n\nYou can fly a long distance. -->
+  <HawkiaWing0.description>这种基因的携带者可以长出类鹰的翅膀。\n\n允许进行短距离飞行。</HawkiaWing0.description>
+  
+</LanguageData>

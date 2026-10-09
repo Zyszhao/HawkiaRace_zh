@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hawkia_tactical vest -->
+  <CE_HK_TacVest.label>霍基婭戰術背心</CE_HK_TacVest.label>
+  <!-- EN: Load Tactical Vest with multiple pouches for storing water bottles and ammunition.\n\nThe reload speed is faster, but it is quite bulky to wear. -->
+  <CE_HK_TacVest.description>帶有多個袋子的戰術背心，可以方便的攜帶水瓶和彈藥。\n\n可以加快換彈速度，但是體積相當的大。</CE_HK_TacVest.description>
+</LanguageData>

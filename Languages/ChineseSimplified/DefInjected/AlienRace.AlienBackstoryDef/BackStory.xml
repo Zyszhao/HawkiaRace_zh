@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Hawkia_Student.title>霍基娅 学生</Hawkia_Student.title>
+	<Hawkia_Student.titleShort>学生</Hawkia_Student.titleShort>
+	<Hawkia_Student.baseDesc>[PAWN_nameDef]每天在学校学习训练动物或狩猎的方法。</Hawkia_Student.baseDesc>
+	
+	<Hawkia_weaponEngineer.title>霍基娅 武器工程师</Hawkia_weaponEngineer.title>
+	<Hawkia_weaponEngineer.titleShort>武器工程师</Hawkia_weaponEngineer.titleShort>
+	<Hawkia_weaponEngineer.baseDesc>[PAWN_nameDef]每日的工作是设计并组装武器，[PAWN_pronoun]是能高效制造各类火器的工程师。</Hawkia_weaponEngineer.baseDesc>
+
+	<Hawkia_Construction_worker.title>霍基娅 建筑工人</Hawkia_Construction_worker.title>
+	<Hawkia_Construction_worker.titleShort>建筑工人</Hawkia_Construction_worker.titleShort>
+	<Hawkia_Construction_worker.baseDesc>[PAWN_nameDef]是清晨起床建造房屋、粉刷墙壁的普通建筑工人。\n\n拿着微薄薪资长时间工作的[PAWN_pronoun]，经常靠速食食品解决三餐。</Hawkia_Construction_worker.baseDesc>
+
+	<Hawkia_Doctor.title>霍基娅 医生</Hawkia_Doctor.title>
+	<Hawkia_Doctor.titleShort>医生</Hawkia_Doctor.titleShort>
+	<Hawkia_Doctor.baseDesc>[PAWN_nameDef]历经艰辛从医学院毕业，为治疗受伤的霍基娅而开设了诊所。</Hawkia_Doctor.baseDesc>
+	<!--在此，感谢村民、瓦莱丽等诸位医学生-->
+
+	<Hawkia_Miner.title>霍基娅 矿工</Hawkia_Miner.title>
+	<Hawkia_Miner.titleShort>矿工</Hawkia_Miner.titleShort>
+	<Hawkia_Miner.baseDesc>[PAWN_nameDef]工作的矿山每月至少发生一起事故，其中大部分都发生在[PAWN_pronoun]开采矿石的过程中。</Hawkia_Miner.baseDesc>
+
+	<Hawkia_Hunter.title>霍基娅 猎人</Hawkia_Hunter.title>
+	<Hawkia_Hunter.titleShort>猎人</Hawkia_Hunter.titleShort>
+	<Hawkia_Hunter.baseDesc>[PAWN_nameDef]远离文明，在偏僻的森林里，[PAWN_pronoun]通过长期狩猎得来的经验掌握了野生动物的习性与辨别可食用植物的能力。</Hawkia_Hunter.baseDesc>
+
+	<Hawkia_Chef.title>霍基娅 厨师</Hawkia_Chef.title>
+	<Hawkia_Chef.titleShort>厨师</Hawkia_Chef.titleShort>
+	<Hawkia_Chef.baseDesc>[PAWN_nameDef]在都市高级餐厅工作，[PAWN_pronoun]从清晨到深夜都在为顾客制作色香味俱全的料理。</Hawkia_Chef.baseDesc>
+
+	<Hawkia_wanderer.title>霍基娅 流浪者</Hawkia_wanderer.title>
+	<Hawkia_wanderer.titleShort>流浪者</Hawkia_wanderer.titleShort>
+	<Hawkia_wanderer.baseDesc>独自流浪的[PAWN_nameDef]拥有勉强能自保的射击技术，并且[PAWN_pronoun]的剑术造诣远超其他霍基娅。</Hawkia_wanderer.baseDesc>
+
+	<Hawkia_infantryRegiment.title>霍基娅 步兵</Hawkia_infantryRegiment.title>
+	<Hawkia_infantryRegiment.titleShort>步兵</Hawkia_infantryRegiment.titleShort>
+	<Hawkia_infantryRegiment.baseDesc>[PAWN_nameDef]隶属霍基利亚帝国的步兵团，接受过系统的军事训练，[PAWN_pronoun]在空闲时经常和战友们打成一片。</Hawkia_infantryRegiment.baseDesc>
+
+	<Hawkia_militaryOfficer.title>霍基娅 军官</Hawkia_militaryOfficer.title>
+	<Hawkia_militaryOfficer.titleShort>军官</Hawkia_militaryOfficer.titleShort>
+	<Hawkia_militaryOfficer.baseDesc>[PAWN_nameDef]以优异的成绩毕业于霍基利亚帝国军校，[PAWN_pronoun]不仅是位能干的军官，与同僚们的交情也很深。</Hawkia_militaryOfficer.baseDesc>
+
+	<Hawkia_retired_officer.title>霍基娅 退役军官</Hawkia_retired_officer.title>
+	<Hawkia_retired_officer.titleShort>退役军官</Hawkia_retired_officer.titleShort>
+	<Hawkia_retired_officer.baseDesc>[PAWN_nameDef]曾长期担任霍基利亚帝国的军官，但最终决定退役，离开危险的战场。尽管年事已高，但[PAWN_nameDef]的身手依然未显老态。</Hawkia_retired_officer.baseDesc>
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hawkia Assault Man -->
+  <HK_AssaultMan.label>霍基娅 突击兵</HK_AssaultMan.label>
+  
+  <!-- EN: Hawkia automatic rifleman -->
+  <HK_AutomaticRifleman.label>霍基娅 自动步枪兵</HK_AutomaticRifleman.label>
+  
+  <!-- EN: Hawkia Colonist -->
+  <HK_Colonist.label>霍基娅 殖民者</HK_Colonist.label>
+  
+  <!-- EN: Officer -->
+  <HK_MilitaryOfficer.label>霍基娅 军官</HK_MilitaryOfficer.label>
+  
+  <!-- EN: Hawkia Rifle Man -->
+  <HK_RifleMan.label>霍基娅 步枪兵</HK_RifleMan.label>
+  
+  <!-- EN: Hawkia Sapper -->
+  <HK_Sapper.label>霍基娅 工兵</HK_Sapper.label>
+  
+  <!-- EN: Hawkia trader -->
+  <HK_trader.label>霍基娅 商人</HK_trader.label>
+  
+  <!-- EN: Hawkia Wanderer -->
+  <HK_Wanderer.label>霍基娅 流浪者</HK_Wanderer.label>
+  
+</LanguageData>

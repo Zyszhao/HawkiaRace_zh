@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: HKA-ML43 machine gun(LMG) -->
+  <Turret_HKA-LMG.label>HKA-ML43轻机枪炮塔</Turret_HKA-LMG.label>
+  <!-- EN: HKA-ML43 machine gun mounted on a tripod. -->
+  <Turret_HKA-LMG.description>安装在三脚架上的HKA-ML43轻机枪。</Turret_HKA-LMG.description>
+  
+</LanguageData>

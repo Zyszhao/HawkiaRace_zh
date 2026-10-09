@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 75mm ANTI Howitzer shells x5 -->
+  <MakeShell_HKA75mmHowitzer_AntigrainWarhead.label>製作75mm HKA榴彈炮彈 (反粒子彈) x5</MakeShell_HKA75mmHowitzer_AntigrainWarhead.label>
+  <!-- EN: Craft 5 75mm ANTI Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_AntigrainWarhead.description>製作75mm HKA榴彈炮彈 (反粒子彈) x5。</MakeShell_HKA75mmHowitzer_AntigrainWarhead.description>
+  <!-- EN: Making HKA 75mm ANTI Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_AntigrainWarhead.jobString>正在正在製作75mm HKA榴彈炮彈 (反粒子彈)。</MakeShell_HKA75mmHowitzer_AntigrainWarhead.jobString>
+  
+  <!-- EN: make 75mm EMP Howitzer shells x5 -->
+  <MakeShell_HKA75mmHowitzer_EMP.label>製作75mm HKA榴彈炮彈 (EMP彈) x5</MakeShell_HKA75mmHowitzer_EMP.label>
+  <!-- EN: Craft 5 75mm EMP Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_EMP.description>製作75mm HKA榴彈炮彈 (EMP彈) x5。</MakeShell_HKA75mmHowitzer_EMP.description>
+  <!-- EN: Making HKA 75mm EMP Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_EMP.jobString>正在製作75mm HKA榴彈炮彈 (EMP彈)。</MakeShell_HKA75mmHowitzer_EMP.jobString>
+  
+  <!-- EN: make 75mm HE Howitzer shells x5 -->
+  <MakeShell_HKA75mmHowitzer_HighExplosive.label>製作75mm HKA榴彈炮彈 (高爆彈) x5</MakeShell_HKA75mmHowitzer_HighExplosive.label>
+  <!-- EN: Craft 5 75mm HE Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_HighExplosive.description>製作75mm HKA榴彈炮彈 (高爆彈) x5。</MakeShell_HKA75mmHowitzer_HighExplosive.description>
+  <!-- EN: Making HKA 75mm HE Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_HighExplosive.jobString>正在製作75mm HKA榴彈炮彈 (高爆彈)。</MakeShell_HKA75mmHowitzer_HighExplosive.jobString>
+  
+  <!-- EN: make 75mm incendiary Howitzer shells x5 -->
+  <MakeShell_HKA75mmHowitzer_Incendiary.label>製作75mm HKA榴彈炮彈 (燃燒彈) x5</MakeShell_HKA75mmHowitzer_Incendiary.label>
+  <!-- EN: Craft 5 75mm incendiary Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_Incendiary.description>製作75mm HKA榴彈炮彈 (燃燒彈) x5。</MakeShell_HKA75mmHowitzer_Incendiary.description>
+  <!-- EN: Making HKA 75mm incendiary Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_Incendiary.jobString>正在製作75mm HKA榴彈炮彈 (燃燒彈)。</MakeShell_HKA75mmHowitzer_Incendiary.jobString>
+  
+  <!-- EN: make 75mm smoke Howitzer shells x5 -->
+  <MakeShell_HKA75mmHowitzer_Smoke.label>製作75mm HKA榴彈炮彈 (煙霧彈) x5</MakeShell_HKA75mmHowitzer_Smoke.label>
+  <!-- EN: Craft 5 75mm smoke Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_Smoke.description>製作75mm HKA榴彈炮彈 (煙霧彈) x5。</MakeShell_HKA75mmHowitzer_Smoke.description>
+  <!-- EN: Making HKA 75mm smoke Howitzer shells. -->
+  <MakeShell_HKA75mmHowitzer_Smoke.jobString>正在製作75mm HKA榴彈炮彈 (煙霧彈)。</MakeShell_HKA75mmHowitzer_Smoke.jobString>
+</LanguageData>

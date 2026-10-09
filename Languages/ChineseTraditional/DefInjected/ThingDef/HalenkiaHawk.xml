@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HKA_HalenkiaHawk.label>哈倫基亞鷹</HKA_HalenkiaHawk.label>
+	<HKA_HalenkiaHawk.description>哈倫基亞鷹體型約為蒼鷹的兩倍大，頭部兩側有著長長的羽飾。\n\n它主要棲息於苔原和溫帶森林，在霍基利亞帝國被視為神聖的存在。</HKA_HalenkiaHawk.description>
+	<EggHalenkiaHawkFertilized.label>哈倫基亞鷹蛋（已受精）</EggHalenkiaHawkFertilized.label>
+	<EggHalenkiaHawkFertilized.description>受精的哈倫基亞鷹蛋。如果一切順利應該可以孵化出哈倫基亞鷹仔。可以生吃，但是最好烹飪後食用。</EggHalenkiaHawkFertilized.description>
+	<EggHalenkiaHawkUnfertilized.label>哈倫基亞鷹蛋（未受精）</EggHalenkiaHawkUnfertilized.label>
+	<EggHalenkiaHawkUnfertilized.description>未受精的哈倫基亞鷹蛋。可以生吃，但是最好烹飪後食用。</EggHalenkiaHawkUnfertilized.description>
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hawkia_Combat Uniform -->
+  <HK_CombatUniform.label>霍基娅军服</HK_CombatUniform.label>
+  <!-- EN: Common military uniform for Hawkia. -->
+  <HK_CombatUniform.description>霍基娅的普通军服。</HK_CombatUniform.description>
+  
+  <!-- EN: Hawkia_Dress Shirt -->
+  <HK_DressShirt.label>霍基娅衬衫</HK_DressShirt.label>
+  <!-- EN: It's an outfit that the Hawkians always wear. -->
+  <HK_DressShirt.description>霍基娅们每天穿着的装束。</HK_DressShirt.description>
+  
+  <!-- EN: HK_Bulletproof Suit -->
+  <HK_HBP.label>霍基娅防弹胸甲。</HK_HBP.label>
+  <!-- EN: You can't protect your limbs, but you can protect your torso to some extent. -->
+  <HK_HBP.description>显然这东西保不住你的四肢，但一定程度上能护住躯干就足够了。</HK_HBP.description>
+  
+  <!-- EN: Hawkia_Military helmet -->
+  <HK_Militaryhat.label>霍基娅军用头盔</HK_Militaryhat.label>
+  <!-- EN: It's a proven iron helmet that can block debris and pistol bullets. -->
+  <HK_Militaryhat.description>一款久经考验的铁制头盔，可以阻挡弹片和手枪弹。</HK_Militaryhat.description>
+  
+  <!-- EN: Hawkia_Pickelhaube -->
+  <HK_Officerhat.label>霍基娅尖顶盔</HK_Officerhat.label>
+  <!-- EN: Unlike ordinary steel helmets, they have horns, so you can see them as officer classes. -->
+  <HK_Officerhat.description>带角的霍基利亚帝国军官头盔。其和普通头盔最大的区别是其尖顶，这是军官的标志。。</HK_Officerhat.description>
+  
+  <!-- EN: Hawkia_Officers Uniform -->
+  <HK_Officers_uniform.label>霍基娅军官制服</HK_Officers_uniform.label>
+  <!-- EN: It is a military officer's outfit that is stronger and more rare than other general uniforms. -->
+  <HK_Officers_uniform.description>军官的制服，比绝大多数的其他制服都更耐用，也更罕见。</HK_Officers_uniform.description>
+  
+  <!-- EN: Hawkia_patrol cap -->
+  <HK_PatrolCap.label>霍基娅巡逻帽</HK_PatrolCap.label>
+  <!-- EN: It's a patrol cap worn by Hawkia soldiers,\n\n\nYou can't even protect flying debris, but at least it protects against the hot sun. -->
+  <HK_PatrolCap.description>霍基娅士兵所戴的巡逻帽。\n\n连飞来的弹片都挡不住，但至少它可以抵御烈日。</HK_PatrolCap.description>
+  
+  <!-- EN: Hawkia_Winter Coat -->
+  <HK_winter_coat.label>霍基娅冬大衣</HK_winter_coat.label>
+  <!-- EN: It is an indispensable winter coat among Hawkia on a winter day. -->
+  <HK_winter_coat.description>对霍基娅们来说，这是冬日里不可或缺的一部分。</HK_winter_coat.description>
+  
+  <!-- EN: Hawkia_Ushanka -->
+  <HK_woolenhat.label>霍基娅乌沙卡帽</HK_woolenhat.label>
+  <!-- EN: On a cold winter day, Hokia wears this hat for fashion. -->
+  <HK_woolenhat.description>霍基娅们把在冬天戴着这种帽子视作一种时尚。</HK_woolenhat.description>
+  
+</LanguageData>

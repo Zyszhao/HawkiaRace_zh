@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Fly -->
+  <HawkiaFly.label>飞行</HawkiaFly.label>
+  <!-- EN: Fly long distances. -->
+  <HawkiaFly.description>进行短距离飞行。</HawkiaFly.description>
+  <!-- EN: Fly -->
+  <HawkiaFly.verbProperties.label>飞行</HawkiaFly.verbProperties.label>
+  
+</LanguageData>

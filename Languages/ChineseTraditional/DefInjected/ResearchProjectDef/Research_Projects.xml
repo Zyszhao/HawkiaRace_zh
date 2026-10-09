@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hawkia_basic apparel -->
+  <Hawkia_BasicClothing.label>霍基婭基礎服裝</Hawkia_BasicClothing.label>
+  <!-- EN: Hawkia makes basic apparel costumes. -->
+  <Hawkia_BasicClothing.description>研究製作霍基婭族的基礎服裝。</Hawkia_BasicClothing.description>
+  
+  <!-- EN: Hawkia Bulletproof -->
+  <Hawkia_Bulletproof.label>霍基婭防彈胸甲</Hawkia_Bulletproof.label>
+  <!-- EN: This is a bulletproof suit exclusively for Hawkia to relieve bullet or explosion damage. -->
+  <Hawkia_Bulletproof.description>研究製作霍基婭族專用的防彈胸甲，其可減少子彈或爆炸所造成的傷害。</Hawkia_Bulletproof.description>
+  
+  <!-- EN: Hawkia_complex apparel -->
+  <Hawkia_ComplexClothing.label>霍基婭複雜服裝</Hawkia_ComplexClothing.label>
+  <!-- EN: Hawkia makes complex apparel costumes. -->
+  <Hawkia_ComplexClothing.description>研究製作霍基婭族的複雜的服裝。</Hawkia_ComplexClothing.description>
+  
+  <!-- EN: Hawkia Anti-tank Rifle Development -->
+  <HK_Anti-tank_Rifle_Development.label>霍基婭反坦克步槍</HK_Anti-tank_Rifle_Development.label>
+  <!-- EN: You can make a "HKA_Anti-tank Rifle". -->
+  <HK_Anti-tank_Rifle_Development.description>研究製作HKA-RAT20反坦克步槍。</HK_Anti-tank_Rifle_Development.description>
+  
+  <!-- EN: Hawkia Assult Rifle. -->
+  <HK_AR_Development.label>霍基婭突擊步槍</HK_AR_Development.label>
+  <!-- EN: You can make a "HKA_A792". -->
+  <HK_AR_Development.description>研究製作HKA-A792突擊步槍。</HK_AR_Development.description>
+  
+  <!-- EN: Hawkia Howitzer Development -->
+  <HK_Howitzer_Development.label>霍基婭榴彈炮</HK_Howitzer_Development.label>
+  <!-- EN: You can make a "HKA_Howitzer". -->
+  <HK_Howitzer_Development.description>TODO</HK_Howitzer_Development.description>
+  
+  <!-- EN: Hawkia Assult Rifle. -->
+  <HK_LMG_Development.label>霍基婭輕機槍</HK_LMG_Development.label>
+  <!-- EN: You can make a "ML43". -->
+  <HK_LMG_Development.description>研究製作HKA-ML43輕機槍。</HK_LMG_Development.description>
+  
+  <!-- EN: Hawkia Pistol Development -->
+  <HK_Pistol_Development.label>霍基婭手槍</HK_Pistol_Development.label>
+  <!-- EN: You can make a "HKA_P25". -->
+  <HK_Pistol_Development.description>研究製作HKA-P25手槍。</HK_Pistol_Development.description>
+  
+  <!-- EN: Hawkia Rifle Development -->
+  <HK_Rifle_Development.label>霍基婭步槍</HK_Rifle_Development.label>
+  <!-- EN: You can make a "HKA_R1913". -->
+  <HK_Rifle_Development.description>研究製作HKA-R1913步槍。</HK_Rifle_Development.description>
+  
+  <!-- EN: Hawkia SMG -->
+  <HK_SMG_Development.label>霍基婭衝鋒槍</HK_SMG_Development.label>
+  <!-- EN: You can make a "HKA_S25A". -->
+  <HK_SMG_Development.description>研究製作HKA-S25A衝鋒槍。</HK_SMG_Development.description>
+</LanguageData>

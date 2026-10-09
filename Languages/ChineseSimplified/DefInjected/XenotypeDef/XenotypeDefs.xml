@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hawkia gene -->
+  <Hawkia_Gene.label>霍基娅种</Hawkia_Gene.label>
+  <!-- EN: Its origin is unknown, but Hakia evolved like a hawk.\n\nAnd he is always sharp and doesn't fly as long as a hawk, but he can jump high and fly in the form of a glider. -->
+  <Hawkia_Gene.description>霍基娅族是演化成像鹰一样的类人物种，其具体起源尚不清楚。\n\n他们外表美丽，虽然无法像鹰一样长时间滞空，但可以跳的很高，并以滑翔方式飞行。</Hawkia_Gene.description>
+  
+</LanguageData>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: HKA_Anti-tank_Rifle bullet -->
+  <Bullet_HKA_Anti-tank_Rifle.label>HKA反坦克步槍子彈</Bullet_HKA_Anti-tank_Rifle.label>
+  
+  <!-- EN: HKA_AR bullet -->
+  <Bullet_HKA_AssaultRifle.label>HKA突擊步槍子彈</Bullet_HKA_AssaultRifle.label>
+  
+  <!-- EN: HKA_Pistol bullet -->
+  <Bullet_HKA_Autopistol.label>HKA手槍子彈</Bullet_HKA_Autopistol.label>
+  
+  <!-- EN: HKA_Rifle bullet -->
+  <Bullet_HKA_Rifle.label>HKA步槍子彈</Bullet_HKA_Rifle.label>
+  
+  <!-- EN: HKA_Shashka -->
+  <Hawk_Shashka.label>HKA-恰西克刀</Hawk_Shashka.label>
+  <!-- EN: It's a sword that you can hold with one hand.\n\nThe handle has the shape of a hawk, and it has been used since the Middle Ages until the present. -->
+  <Hawk_Shashka.description>一把可以單手拿著的軍刀。\n\n刀柄呈鷹形，其形制從中世紀一直用到現在。</Hawk_Shashka.description>
+  <!-- EN: point -->
+  <Hawk_Shashka.tools.point.label>刀尖</Hawk_Shashka.tools.point.label>
+  <!-- EN: edge -->
+  <Hawk_Shashka.tools.edge.label>刀刃</Hawk_Shashka.tools.edge.label>
+  
+  <!-- EN: HKA_A792(AR) -->
+  <HKA_A792_AR.label>HKA-A792突擊步槍</HKA_A792_AR.label>
+  <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat.\n\nit's heavy. but It has good reliability, decent power, and good accuracy. -->
+  <HKA_A792_AR.description>一種在野戰和城市戰中都可用的導氣式突擊步槍。\n\n它很重，但其優秀的可靠性、強大的毀傷能力和良好的精度彌補了這一缺點。</HKA_A792_AR.description>
+  <!-- EN: stock -->
+  <HKA_A792_AR.tools.stock.label>槍托</HKA_A792_AR.tools.stock.label>
+  <!-- EN: barrel -->
+  <HKA_A792_AR.tools.barrel.label>槍管</HKA_A792_AR.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <HKA_A792_AR.tools.muzzle.label>槍口</HKA_A792_AR.tools.muzzle.label>
+  <!-- EN: HKA_A792(AR) -->
+  <HKA_A792_AR.verbs.Verb_ShootCE.label>HKA-A792突擊步槍</HKA_A792_AR.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: HKA_ML43(LMG) -->
+  <HKA_ML43_LMG.label>HKA-ML43輕機槍</HKA_ML43_LMG.label>
+  <!-- EN: "Gas piston operated with a drum magazine, this light machine gun is quite heavy weighing around "12kg"\n\nmaking it difficult for individuals to carry around, but it serves as a dependable support weapon for friendly forces." -->
+  <HKA_ML43_LMG.description>一種使用彈鼓供彈的活塞導氣式輕機槍，重達足足12公斤。\n\n對於單兵來講難以攜帶，但對友軍是一種可靠的支援武器。</HKA_ML43_LMG.description>
+  <!-- EN: grip -->
+  <HKA_ML43_LMG.tools.grip.label>握把</HKA_ML43_LMG.tools.grip.label>
+  <!-- EN: barrel -->
+  <HKA_ML43_LMG.tools.barrel.label>槍管</HKA_ML43_LMG.tools.barrel.label>
+  <!-- EN: HKA_ML43(LMG) -->
+  <HKA_ML43_LMG.verbs.Verb_ShootCE.label>HKA-ML43輕機槍</HKA_ML43_LMG.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: HKA_P25(Pistol) -->
+  <HKA_P25_Pistol.label>HKA-P25手槍</HKA_P25_Pistol.label>
+  <!-- EN: This pistol is short-distance, so it is not suitable for hunting and is suitable for street fighting.\n\nand some of the military fans use the collection. -->
+  <HKA_P25_Pistol.description>一種射程很短的手槍，可以用於巷戰但不適合打獵。\n\n在軍事迷中，這被視作一種收藏品。</HKA_P25_Pistol.description>
+  <!-- EN: grip -->
+  <HKA_P25_Pistol.tools.grip.label>握把</HKA_P25_Pistol.tools.grip.label>
+  <!-- EN: muzzle -->
+  <HKA_P25_Pistol.tools.muzzle.label>槍口</HKA_P25_Pistol.tools.muzzle.label>
+  <!-- EN: HKA_P25(Pistol) -->
+  <HKA_P25_Pistol.verbs.Verb_ShootCE.label>HKA-P25手槍</HKA_P25_Pistol.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: HKA_R1913(Rifle) -->
+  <HKA_R1913_Rifle.label>HKA-R1913步槍</HKA_R1913_Rifle.label>
+  <!-- EN: A straight-pull bolt action rifle.\n\nIt is the best weapon for hunting because it has a long range, but it is faster and more accurate loading speed than a bolt action rifle. -->
+  <HKA_R1913_Rifle.description>一種使用直拉式槍機的栓動步槍。\n\n和普通栓動步槍比，它射速更快，射程更長，換彈時間也更短，非常適合狩獵。</HKA_R1913_Rifle.description>
+  <!-- EN: stock -->
+  <HKA_R1913_Rifle.tools.stock.label>槍托</HKA_R1913_Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <HKA_R1913_Rifle.tools.barrel.label>槍管</HKA_R1913_Rifle.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <HKA_R1913_Rifle.tools.muzzle.label>槍口</HKA_R1913_Rifle.tools.muzzle.label>
+  <!-- EN: HKA_R1913(Rifle) -->
+  <HKA_R1913_Rifle.verbs.Verb_ShootCE.label>HKA-R1913步槍</HKA_R1913_Rifle.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: HKA_RAT20(Anti-tank Rifle) -->
+  <HKA_RAT20_ATR.label>HKA-RAT20反坦克步槍</HKA_RAT20_ATR.label>
+  <!-- EN: It's a Hawkia anti-tank rifle.\n\nThis tank rifle is incredibly powerful, capable of tearing through even medium-sized mecanoids like scraps of paper with each shot,\n\nbut its aiming time is quite long, so it's recommended for those with precise shooting skills. -->
+  <HKA_RAT20_ATR.description>霍基婭人所使用的反坦克步槍。\n\n這種反坦克步槍威力巨大，可以一擊把中型機械體像紙片一樣撕碎。\n\n但由於其超長的瞄準時間，建議讓射擊最精準的人來使用。</HKA_RAT20_ATR.description>
+  <!-- EN: grip -->
+  <HKA_RAT20_ATR.tools.grip.label>握把</HKA_RAT20_ATR.tools.grip.label>
+  <!-- EN: barrel -->
+  <HKA_RAT20_ATR.tools.barrel.label>槍管</HKA_RAT20_ATR.tools.barrel.label>
+  <!-- EN: HKA_RAT20(Anti-tank Rifle) -->
+  <HKA_RAT20_ATR.verbs.Verb_ShootCE.label>HKA-RAT20反坦克步槍</HKA_RAT20_ATR.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: HKA_S25A(SMG) -->
+  <HKA_S25A_SMG.label>HKA-S25A衝鋒槍</HKA_S25A_SMG.label>
+  <!-- EN: It's a machine gun that uses pistol ammunition.\n\nIt is popular with soldiers because it has a weaker firepower compared to assault rifles but is light in weight. -->
+  <HKA_S25A_SMG.description>一種使用手槍彈的自動武器。\n\n它很受霍基婭族的士兵歡迎，因為和突擊步槍相比，雖然它火力較弱，但其重量更輕的優勢非常明顯。</HKA_S25A_SMG.description>
+  <!-- EN: stock -->
+  <HKA_S25A_SMG.tools.stock.label>槍托</HKA_S25A_SMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <HKA_S25A_SMG.tools.barrel.label>槍管</HKA_S25A_SMG.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <HKA_S25A_SMG.tools.muzzle.label>槍口</HKA_S25A_SMG.tools.muzzle.label>
+  <!-- EN: HKA_S25A(SMG) -->
+  <HKA_S25A_SMG.verbs.Verb_ShootCE.label>HKA-S25A衝鋒槍</HKA_S25A_SMG.verbs.Verb_ShootCE.label>
+</LanguageData>

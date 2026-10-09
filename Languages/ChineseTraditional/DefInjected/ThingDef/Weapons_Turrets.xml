@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: HKA-ML43 light machine gun(stationary type) -->
+  <Gun_HKA-LMG.label>HKA-ML43輕機槍（固定式）</Gun_HKA-LMG.label>
+  <!-- EN: Heavy machine gun for use against light vehicles. -->
+  <Gun_HKA-LMG.description>用於對抗輕型載具的輕機槍。</Gun_HKA-LMG.description>
+  <!-- EN: HKA-ML43 light machine gun(stationary type) -->
+  <Gun_HKA-LMG.verbs.Verb_ShootCE.label>HKA-ML43輕機槍（固定式）</Gun_HKA-LMG.verbs.Verb_ShootCE.label>
+</LanguageData>

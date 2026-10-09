@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hawkiria empire -->
+  <HawkiriaEmpire.label>霍基利亞帝國</HawkiriaEmpire.label>
+  <!-- EN: It's a settlement where hawkia live together.\n\nIt's also very disturbing inside... -->
+  <HawkiriaEmpire.description>霍基婭族共同居住的定居點。\n\n帝國的內部似乎有暗流湧動……</HawkiriaEmpire.description>
+  <!-- EN: Kaiser -->
+  <HawkiriaEmpire.leaderTitle>皇帝</HawkiriaEmpire.leaderTitle>
+  <!-- EN: member -->
+  <HawkiriaEmpire.pawnSingular>成員</HawkiriaEmpire.pawnSingular>
+  <!-- EN: Hawkirian -->
+  <HawkiriaEmpire.pawnsPlural>霍基婭</HawkiriaEmpire.pawnsPlural>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: HKA-Howitzer -->
+  <HKA-Howitzer.label>HKA-榴彈炮</HKA-Howitzer.label>
+  <!-- EN: This is a 75mm Howitzer. it's not accurate, but it drops shells over the wall. -->
+  <HKA-Howitzer.description>一門75mm榴彈炮。雖然其精度較差，但它可以將炮彈打過高牆。</HKA-Howitzer.description>
+  <!-- EN: HKA-Howitzer -->
+  <HKA-Howitzer.verbs.Verb_ShootMortarCE.label>HKA-榴彈炮</HKA-Howitzer.verbs.Verb_ShootMortarCE.label>
+  
+  <!-- EN: HKA-Howitzer Base -->
+  <HKA-Howitzer_Base.label>HKA-榴彈炮底座</HKA-Howitzer_Base.label>
+  <!-- EN: This is a 75mm Howitzer. it's not accurate, but it drops shells over the wall. -->
+  <HKA-Howitzer_Base.description>一門75mm榴彈炮。雖然其精度較差，但它可以將炮彈打過高牆。</HKA-Howitzer_Base.description>
+  <!-- EN: Barrel durability -->
+  <HKA-Howitzer_Base.comps.CompRefuelable.fuelGizmoLabel>炮管耐久度</HKA-Howitzer_Base.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <HKA-Howitzer_Base.comps.CompRefuelable.fuelLabel>更換炮管前可射擊次數</HKA-Howitzer_Base.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new reinforced barrel -->
+  <HKA-Howitzer_Base.comps.CompRefuelable.outOfFuelMessage>需要強化炮管</HKA-Howitzer_Base.comps.CompRefuelable.outOfFuelMessage>
+</LanguageData>

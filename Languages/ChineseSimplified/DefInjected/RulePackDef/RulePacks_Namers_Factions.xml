@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>  
+  
+  <!-- EN:
+    <li>r_name->[HKA_Last] </li>
+  -->
+  <Hawkiapawn_rule.rulePack.rulesStrings>r_name->  [HKA_Last] </Hawkiapawn_rule.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>HKA_Mix->[First]-[Side]</li>
+    <li>HKA_First->[First]</li>
+    <li>HKA_Side->[Side]</li>
+    <li>HKA_Last->[Last]</li>
+  -->
+  <HawkiapawnName.rulePack.rulesStrings.0>HKA_Mix->[First]-[Side]</HawkiapawnName.rulePack.rulesStrings.0>
+  <HawkiapawnName.rulePack.rulesStrings.1>HKA_First->[First]</HawkiapawnName.rulePack.rulesStrings.1>  
+  <HawkiapawnName.rulePack.rulesStrings.2>HKA_Side->[Side]</HawkiapawnName.rulePack.rulesStrings.2>
+  <HawkiapawnName.rulePack.rulesStrings.3>HKA_Last->[Last]</HawkiapawnName.rulePack.rulesStrings.3>
+
+  <!-- EN:
+    <li>r_leaderTitle-> golden Hawk</li>
+  -->
+  <LeaderTitleMakerHawkia_rule.rulePack.rulesStrings>r_leaderTitle->金雕</LeaderTitleMakerHawkia_rule.rulePack.rulesStrings>
+ 
+  <!-- EN:
+    <li>r_name->nest of Hazel</li>
+    <li>r_name->nest of oak</li>
+    <li>r_name->nest of Acacia</li>
+    <li>r_name->nest of claw</li>
+    <li>r_name->nest of Beak</li>
+    <li>r_name->nest of feathery</li>
+    <li>r_name->nest of black eagle</li>
+    <li>r_name->nest of three-legged crow</li>
+    <li>r_name->nest of double-headed eagle</li>
+  -->
+  <NamerFactionHawkiriaEmpire.rulePack.rulesStrings.0>r_name->榛树之巢</NamerFactionHawkiriaEmpire.rulePack.rulesStrings.0>
+  <NamerFactionHawkiriaEmpire.rulePack.rulesStrings.1>r_name->橡树之巢</NamerFactionHawkiriaEmpire.rulePack.rulesStrings.1>
+  <NamerFactionHawkiriaEmpire.rulePack.rulesStrings.2>r_name->金合欢之巢</NamerFactionHawkiriaEmpire.rulePack.rulesStrings.2>
+  <NamerFactionHawkiriaEmpire.rulePack.rulesStrings.3>r_name->爪之巢</NamerFactionHawkiriaEmpire.rulePack.rulesStrings.3>
+  <NamerFactionHawkiriaEmpire.rulePack.rulesStrings.4>r_name->喙之巢</NamerFactionHawkiriaEmpire.rulePack.rulesStrings.4>
+  <NamerFactionHawkiriaEmpire.rulePack.rulesStrings.5>r_name->羽之巢</NamerFactionHawkiriaEmpire.rulePack.rulesStrings.5>
+  <NamerFactionHawkiriaEmpire.rulePack.rulesStrings.6>r_name->黑鹰之巢</NamerFactionHawkiriaEmpire.rulePack.rulesStrings.6>
+  <NamerFactionHawkiriaEmpire.rulePack.rulesStrings.7>r_name->三足金乌之巢</NamerFactionHawkiriaEmpire.rulePack.rulesStrings.7>
+  <NamerFactionHawkiriaEmpire.rulePack.rulesStrings.8>r_name->双头鹰之巢</NamerFactionHawkiriaEmpire.rulePack.rulesStrings.8>
+
+  <!-- EN:
+    <li>r_ideoName->Behavior pattern [HKA_Last]</li>
+    <li>r_ideoAdjective->[HKA_First]</li>
+    <li>r_memberName->[HKA_Side]</li>
+  -->
+  <NamerIdeoHawkia.rulePack.rulesStrings.0>r_ideoName->[HKA_Last]行为模式</NamerIdeoHawkia.rulePack.rulesStrings.0>
+  <NamerIdeoHawkia.rulePack.rulesStrings.1>r_ideoAdjective->[HKA_First]</NamerIdeoHawkia.rulePack.rulesStrings.1>
+  <NamerIdeoHawkia.rulePack.rulesStrings.2>r_memberName->[HKA_Side]</NamerIdeoHawkia.rulePack.rulesStrings.2>
+ 
+  <!-- EN:
+    <li>r_name(p=6)->[townname_wordgen]</li>
+    <li>r_name(p=3)->[townname_combo]</li>
+    <li>r_name->[townname_near]</li>
+    <li>topicalnoun->[Vegetable]</li>
+    <li>topicalnoun->[Game]</li>
+    <li>topicalnoun->[BodyPart]</li>
+    <li>townname_combo->[topicalnoun][TerrainFeature][HKTStownend]</li>
+    <li>townname_combo->[topicalnoun][Community][HKTStownend]</li>
+    <li>townname_combo->[topicalnoun]'s [TerrainFeature][HKTStownend]</li>
+    <li>townname_combo->[topicalnoun]'s [Community][HKTStownend]</li>
+    <li>townname_combo(p=2)->[concept_positive]'s [TerrainFeature][HKTStownend]</li>
+    <li>townname_combo(p=2)->[concept_positive][TerrainFeature][HKTStownend]</li>
+    <li>townname_combo(p=2)->[concept_positive][Community][HKTStownend]</li>
+    <li>townname_combo(p=3)->[Character]'s [TerrainFeature][HKTStownend]</li>
+    <li>townname_combo(p=3)->[Character]'s [Community][HKTStownend]</li>
+    <li>townname_near->[nearnameinitial]-at-the-[TerrainFeature][HKTStownend]</li>
+    <li>townname_near->[nearnameinitial]-by-the-[TerrainFeature][HKTStownend]</li>
+    <li>townname_near->[nearnameinitial]-on-the-[TerrainFeature][HKTStownend]</li>
+    <li>nearnameinitial->[townname_wordgen]</li>
+    <li>nearnameinitial->[Community]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][HKTStownend]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE][HKTStownend]</li>
+    <li>townname_wordgen(p=2)->[SylE][HKTStownend]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][HKTstownend]</li>
+    <li>townname_wordgen->[TerrainFeature][HKTStownend]</li>
+    <li>townname_wordgen->[topicalnoun][HKTStownend]</li>
+    <li>HKTStownend->Fieldarmy Base</li>
+    <li>HKTStownend->Power Station</li>
+    <li>HKTStownend->munitions factory</li>
+    <li>HKTStownend->Fuel rig</li>
+    <li>HKTStownend->Supply Fortress</li>
+    <li>HKTStownend->weapons lab</li>
+    <li>HKTStownend->Infantry RegroupPoint</li>
+  -->
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.0>r_name(p=6)->[townname_wordgen]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.0>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.1>r_name(p=3)->[townname_combo]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.1>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.2>r_name->[townname_near]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.2>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.3>topicalnoun->[Vegetable]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.3>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.4>topicalnoun->[Game]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.4>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.5>topicalnoun->[BodyPart]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.5>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.6>townname_combo->[topicalnoun][TerrainFeature][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.6>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.7>townname_combo->[topicalnoun][Community][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.7>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.8>townname_combo->[topicalnoun]之[TerrainFeature][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.8>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.9>townname_combo->[topicalnoun]之[Community][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.9>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.10>townname_combo(p=2)->[concept_positive]之[TerrainFeature][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.10>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.11>townname_combo(p=2)->[concept_positive][TerrainFeature][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.11>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.12>townname_combo(p=2)->[concept_positive][Community][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.12>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.13>townname_combo(p=3)->[Character]之[TerrainFeature][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.13>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.14>townname_combo(p=3)->[Character]之[Community][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.14>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.15>townname_near->[nearnameinitial]畔[TerrainFeature][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.15>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.16>townname_near->[nearnameinitial]旁[TerrainFeature][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.16>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.17>townname_near->[nearnameinitial]上[TerrainFeature][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.17>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.18>nearnameinitial->[townname_wordgen]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.18>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.19>nearnameinitial->[Community]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.19>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.20>townname_wordgen(p=2)->[SylE][SylE][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.20>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.21>townname_wordgen(p=2)->[SylE][SylE][SylE][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.21>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.22>townname_wordgen(p=2)->[SylE][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.22>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.23>townname_wordgen(p=2)->[SylE][SylE][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.23>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.24>townname_wordgen->[TerrainFeature][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.24>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.25>townname_wordgen->[topicalnoun][HKTStownend]</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.25>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.26>HKTStownend->野战军基地</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.26>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.27>HKTStownend->发电站</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.27>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.28>HKTStownend->兵工厂</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.28>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.29>HKTStownend->燃料钻井</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.29>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.30>HKTStownend->补给堡垒</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.30>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.31>HKTStownend->武器实验室</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.31>
+  <NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.32>HKTStownend->步兵集结点</NamerSettlementHawkiriaEmpire.rulePack.rulesStrings.32>
+  
+</LanguageData>

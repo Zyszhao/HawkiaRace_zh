@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: join Hawkia -->
+  <WandererJoin_Hawkia_Scenario.label>流浪霍基婭加入</WandererJoin_Hawkia_Scenario.label>
+  <!-- EN: join Hawkia -->
+  <WandererJoin_Hawkia_Scenario.letterLabel>霍基婭加入</WandererJoin_Hawkia_Scenario.letterLabel>
+  <!-- EN: The Hawkia wandering alone joins the settlement. -->
+  <WandererJoin_Hawkia_Scenario.letterText>一名流浪的霍基婭想要加入你的定居點。</WandererJoin_Hawkia_Scenario.letterText>
+</LanguageData>

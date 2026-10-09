@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hawkia settlement -->
+  <HK_Scenario.label>霍基娅定居点</HK_Scenario.label>
+  <!-- EN: They're destroyed by a colony of insects, and the three of them settle down together.\n\n And a few days later, another wandering Hawkia joins. -->
+  <HK_Scenario.description>虫巢的袭击摧毁了霍基娅们的家园，在流浪途中三个霍基娅一起定居了下来。\n\n几天后，另一个流浪的霍基娅将会加入。</HK_Scenario.description>
+  <!-- EN: They're destroyed by a colony of insects, and the three of them settle down together.\n\n And a few days later, another wandering Hawkia joins. -->
+  <HK_Scenario.scenario.description>虫巢的袭击摧毁了霍基娅们的家园，在流浪途中三个霍基娅一起定居了下来。\n\n几天后，另一个流浪的霍基娅将会加入。</HK_Scenario.scenario.description>
+  <!-- EN: hawkia settlement -->
+  <HK_Scenario.scenario.name>霍基娅定居点</HK_Scenario.scenario.name>
+  <!-- EN: The Story of Three Lost Hawkia -->
+  <HK_Scenario.scenario.summary>三个失去家园的霍基娅的故事。</HK_Scenario.scenario.summary>
+  
+</LanguageData>
